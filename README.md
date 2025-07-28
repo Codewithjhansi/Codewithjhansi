@@ -55,7 +55,7 @@ From recursion to trees, everything that crack interviews — lives here.
 ### ✨ Connect with Me
 
 - 📧 Email: `kjhansilakshmi05@gmail.com`  
-- 💼 LinkedIn: [Coming Soon]  
+- 💼 LinkedIn: 'www.linkedin.com/in/jhansi-lakshmi-karuparthi'  
 - 🌐 Portfolio Website: [In Progress]
 
 ---
