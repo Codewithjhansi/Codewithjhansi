@@ -19,9 +19,9 @@
 
 - 🧠 AI/ML: Python, TensorFlow, OpenCV, CNNs  
 - ☁️ Cloud: AWS (Lambda, S3, EC2, API Gateway, IAM, DynamoDB)  
-- 💻 Languages: Java, Python, C, JavaScript  
-- 🌐 Web: HTML, CSS, Bootstrap  
-- ⚙️ Tools: Git, GitHub, Jupyter, VS Code, Postman  
+- 💻 Languages: Java, Python, C 
+- 🌐 Web: HTML, CSS, JavaScript 
+- ⚙️ Tools: Git, GitHub, Jupyter, VS Code 
 
 ---
 
