@@ -37,7 +37,7 @@ A serverless app that generates image captions using deep learning (CNN + LSTM).
 Hosted using AWS Lambda, S3, and API Gateway.  
 A fun mix of AI creativity + cloud scalability.
 
-💻 **Java DSA Practice Ground** *(In Progress)*  
+💻 **Python DSA Practice Ground** *(In Progress)*  
 My personal Java playground for mastering Data Structures & Algorithms.  
 From recursion to trees, everything that crack interviews — lives here.
 
@@ -45,7 +45,7 @@ From recursion to trees, everything that crack interviews — lives here.
 
 ### 🛰️ Currently Orbiting Around
 
-- Java DSA practice for product-based interviews  
+- Python DSA practice for product-based interviews  
 - AWS Hands-on Projects & Certifications  
 - ONGC & PSU technical prep for core CS roles  
 - Building my personal portfolio and writing blogs (soon!)
